@@ -1,11 +1,10 @@
-# Day 8 of 100DaysofCode
+# Green Web
 
-## What I learned?
+Green Web is a website that check whether a website run on renewable energy or not.
 
-I learned the following topics :
-- What is DOM?
-- DOM Selector and Events
+This website shed light on the topic of website host on renewable enegry with comparison to the
+traditional hosting.
 
-## What I develop?
+## Visit Website
 
-With the new power of DOM Manipulation. I created a basic todo app where you can add item to it. 
+You can check the live website (**here**)[https://green-web.netlify.app/]
