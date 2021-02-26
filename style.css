@@ -112,8 +112,9 @@ li{
     padding: 0.5em;
 }
 
-li:hover{
-    color: aquamarine;
+.benefit{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
 }
 
 #green{
@@ -139,7 +140,7 @@ img{
 
 .img-container{
     max-width: 55%;
-    height: 500px;
+    /* height: 500px; */
     object-fit: cover;
 }
 
@@ -160,8 +161,8 @@ footer{
     color: white;
 }
 
-@media(max-width:780px){
-    
+@media(max-width:840px){
+
     .header-img{
         min-width: 90%;
     }
@@ -181,5 +182,11 @@ footer{
         font-size: 1em;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
+    }
+
+    .benefit{
+        display: flex;
+        flex-direction: column;
+        font-size: 1em;
     }
 }
