@@ -7,4 +7,4 @@ traditional hosting.
 
 ## Visit Website
 
-You can check the live website (**here**)[https://green-web.netlify.app/]
+You can check the live website **[here](https://green-web.netlify.app/)**
