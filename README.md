@@ -8,3 +8,10 @@ traditional hosting.
 ## Visit Website
 
 You can check the live website **[here](https://green-web.netlify.app/)**
+
+
+### How I built it 
+I have used the APM Service that is providing me information about the webpage and lets me know how much traffic my application is getting and what is my web transaction time, and response time.
+
+Using that information I tried to make my website more efficient by altering the code to get maximum efficiency.
+
